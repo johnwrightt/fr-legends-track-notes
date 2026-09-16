@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnwrightt.github.io/fr-legends-track-notes/sitemap.xml
